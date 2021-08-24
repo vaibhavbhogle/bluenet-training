@@ -1,4 +1,8 @@
 # Databricks notebook source
+This is latest change
+
+# COMMAND ----------
+
 # DBTITLE 1,Read whole table using JDBC connection
 #driver to be installed on cluster - org.postgresql:postgresql:42.2.20.jre7
 
